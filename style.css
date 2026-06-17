@@ -9,7 +9,7 @@
 /* Estilo do Corpo (Body) */
 body {
     background-color: #f4f7f6; /* Cor de fundo suave */
-    color: #333; /* Cor do texto principal */
+    color: #e626cc; /* Cor do texto principal */
     transition: background-color 0.5s ease; /* Efeito suave quando o JS mudar a cor */
 }
 
